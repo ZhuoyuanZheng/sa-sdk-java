@@ -1,6 +1,6 @@
 # Sensors Analytics
 
-This is the official Java SDK for Sensors Analytics.
+This is a 3th party Java SDK for Sensors Analytics.
 
 ## Easy Installation
 
